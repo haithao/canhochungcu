@@ -1,0 +1,8 @@
+---
+layout: default
+img: pn2.png
+category: Services
+title: Phòng ngủ 2
+description: |
+---
+  Phòng ngủ căn hộ chung cư. Chất liệu mdf lõi xanh chống ẩm phủ melamine.

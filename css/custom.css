@@ -38,3 +38,8 @@
     transition: all 0.35s;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
